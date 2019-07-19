@@ -24,7 +24,7 @@ function getColor(d) {
 
 // Function to set circle size by earthquake magnitudes
 function getRadius(magnitude) {
-  return magnitude * 20000;
+  return magnitude * 200;
 }
 
 // Function to create and utilize features
@@ -111,7 +111,7 @@ function createMap(earthquakes, plates) {
   // Create our map, giving it the satellitemap, earthquakes & plates layers to display on load
   var myMap = L.map("map", {
     center: [43.6529, -79.3849],
-    zoom: 2.5,
+    zoom: 10,
     layers: [satellitemap, earthquakes, plates]
   });
 
