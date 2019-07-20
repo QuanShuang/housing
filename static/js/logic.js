@@ -12,31 +12,6 @@ d3.json(listingUrl, function(data) {
   })
 });
 
-// d3.json(schoolurl, function(data2) {
-//   console.log(data2);
-//   // Create a new marker cluster group
-//   var markers = new L.markerClusterGroup();
-
-//   // Loop through data
-//   for (var i = 1; i < data2.length; i++) {
-
-//     // Set the data location property to a variable
-//     var lat = data2[i].lat;
-
-//     // Check for location property
-//     if (lat) {
-
-//       // Add a new marker to the cluster group and bind a pop-up
-//       markers.addLayer(L.marker([lat.coordinates[1], location.coordinates[0]])
-//         .bindPopup(response[i].descriptor));
-//     }
-
-//   }
-
-//   // Add our marker cluster layer to the map
-//   myMap.addLayer(markers);
-// });
-
 
 // Function to set color of the house based on their pricing
 function getColor(d) {
