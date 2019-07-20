@@ -1,15 +1,20 @@
 // Store our API endpoint
 var listingUrl = "resources/Transformed_JSON_to_GeoJSON.json";
 var schoolUrl = "resources/school/school.json";
+var polygonUrl = "resources/school/polygon_output.json";
+
 
 // Perform a GET request to above House Listing and Fraxen url queries
 d3.json(listingUrl, function(data) {
   console.log(data);
   d3.json(schoolUrl, function(data2) {
-    console.log(data2)
-    // Send the data.features object to the createFeatures function
-    createFeatures(data.features, data2.features);
-  })
+    console.log(data2);
+    d3.json(polygonUrl, function(data3){
+      console.log(data3);
+        // Send the data.features object to the createFeatures function
+    createFeatures(data.features, data2.features, data3.features);
+    });
+  });
 });
 
 
@@ -40,7 +45,7 @@ function getRadius(price) {
 }
 
 // Function to create and utilize features
-function createFeatures(listingData, schoolData) {
+function createFeatures(listingData, schoolData, polygonData) {
 
   // Function to run once to render each feature in listing data
   // Give each house a popup describing the type and price
@@ -57,7 +62,7 @@ function createFeatures(listingData, schoolData) {
       fillOpacity: getOpacity(feature.properties.price),
       stroke: false,
     });
-  }
+  };
 
   // Function to run once to render each feature in tectonic plates data
   // Give each tectonic plates a popup describing the name of the plate
@@ -65,7 +70,14 @@ function createFeatures(listingData, schoolData) {
     layer.bindPopup("<h4>" + feature.properties.name + 
     "<br> Rating: " + feature.properties.rating +"</h4>"
     );
-  }
+  };
+
+  function onEachPolygonLayer(feature, layer) {
+    layer.bindPopup("<h4>" + feature.properties.name + 
+    "<br> Score: " + feature.properties.score +"</h4>"
+    );
+  };
+
 
   // Create a GeoJSON layer containing the features array on the ListingData & plateData object
   // Run the onEachFeature function once to loop through data in the array
@@ -79,12 +91,19 @@ function createFeatures(listingData, schoolData) {
     color: "blue"
     });
 
+  
+  var polygons = L.geoJSON(polygonData, {
+      onEachFeature: onEachSchoolLayer,
+      color: "orange"
+      });
+  
+
   // Send our housing & schools layer to the createMap function
-  createMap(housings, schools);
+  createMap(housings, schools, polygons);
 }
 
 // Function to create map
-function createMap(housings, schools) {
+function createMap(housings, schools, polygons) {
 
   // Define satellite, grayscale & outdoor layers
   var satellitemap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
@@ -125,14 +144,15 @@ function createMap(housings, schools) {
   // Create overlayMaps object to hold our overlay map layer
   var overlayMaps = {
     "Housing": housings,
-    "Schools": schools
+    "Schools": schools,
+    "School Boundaries": polygons
   };
 
   // Create our map, giving it the satellitemap, housings & plates layers to display on load
   var myMap = L.map("map", {
     center: [43.6529, -79.3849],
     zoom: 10,
-    layers: [darkmap, housings, schools]
+    layers: [darkmap, housings, schools, polygons]
   });
 
   // Create a layer control to enable toggle among our baseMaps and overlayMaps
