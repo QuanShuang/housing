@@ -1,0 +1,2886 @@
+[
+  {
+    "name": "Rolph Road",
+    "lat": 43.6998525,
+    "lng": -79.3659595,
+    "FSA": "M4G",
+    "RATINGS": 8
+  },
+  {
+    "name": "Burrows Hall",
+    "lat": 43.7927577,
+    "lng": -79.2289182,
+    "FSA": "M1B",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "Chief Dan George",
+    "lat": 43.8026736,
+    "lng": -79.1639362,
+    "FSA": "M1B",
+    "RATINGS": 4.6
+  },
+  {
+    "name": "Lucy Maud Montgomery",
+    "lat": 43.7969646,
+    "lng": -79.2094261,
+    "FSA": "M1B",
+    "RATINGS": 4.4
+  },
+  {
+    "name": "Berner Trail",
+    "lat": 43.8015399,
+    "lng": -79.2210971,
+    "FSA": "M1B",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Mary Shadd",
+    "lat": 43.8144737,
+    "lng": -79.2184349,
+    "FSA": "M1B",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Grey Owl",
+    "lat": 43.8040632,
+    "lng": -79.2129864,
+    "FSA": "M1B",
+    "RATINGS": 4.6
+  },
+  {
+    "name": "Tom Longboat",
+    "lat": 43.8104131,
+    "lng": -79.2315946,
+    "FSA": "M1B",
+    "RATINGS": 6
+  },
+  {
+    "name": "Alexander Stirling",
+    "lat": 43.8117057,
+    "lng": -79.207487,
+    "FSA": "M1B",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "Malvern",
+    "lat": 43.7978734,
+    "lng": -79.2331454,
+    "FSA": "M1B",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "Heritage Park",
+    "lat": 43.8211236,
+    "lng": -79.2076576,
+    "FSA": "M1B",
+    "RATINGS": 7
+  },
+  {
+    "name": "Fleming",
+    "lat": 43.815572,
+    "lng": -79.2034305,
+    "FSA": "M1B",
+    "RATINGS": 9.5
+  },
+  {
+    "name": "Rouge Valley",
+    "lat": 43.7993729,
+    "lng": -79.1510611,
+    "FSA": "M1B",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Emily Carr",
+    "lat": 43.8048719,
+    "lng": -79.2068898,
+    "FSA": "M1B",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "John G Diefenbaker",
+    "lat": 43.8023136,
+    "lng": -79.1717313,
+    "FSA": "M1B",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "Alvin Curling",
+    "lat": 43.8083851,
+    "lng": -79.1904746,
+    "FSA": "M1B",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "William G Davis",
+    "lat": 41.1876661,
+    "lng": -73.1577099,
+    "FSA": "M1C",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "Morrish",
+    "lat": 43.7932201,
+    "lng": -79.1794546,
+    "FSA": "M1C",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Charlottetown",
+    "lat": 43.7819963,
+    "lng": -79.1423267,
+    "FSA": "M1C",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Highland Creek",
+    "lat": 43.7833059,
+    "lng": -79.1784557,
+    "FSA": "M1C",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "West Rouge",
+    "lat": 43.795828,
+    "lng": -79.1337298,
+    "FSA": "M1C",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "Meadowvale",
+    "lat": 43.7953443,
+    "lng": -79.1641425,
+    "FSA": "M1C",
+    "RATINGS": 7
+  },
+  {
+    "name": "Centennial Road",
+    "lat": 43.7870187,
+    "lng": -79.1501063,
+    "FSA": "M1C",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Eastview",
+    "lat": 43.7590263,
+    "lng": -79.1914443,
+    "FSA": "M1E",
+    "RATINGS": 2.3
+  },
+  {
+    "name": "Elizabeth Simcoe",
+    "lat": 40.8708636,
+    "lng": -73.9564296,
+    "FSA": "M1E",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "Poplar Road",
+    "lat": 43.7535932,
+    "lng": -79.1873275,
+    "FSA": "M1E",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Highcastle",
+    "lat": 43.7865806,
+    "lng": -79.212286,
+    "FSA": "M1E",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "West Hill",
+    "lat": 29.2575442,
+    "lng": -81.0271786,
+    "FSA": "M1E",
+    "RATINGS": 3.2
+  },
+  {
+    "name": "Galloway Road",
+    "lat": 43.7647888,
+    "lng": -79.1964249,
+    "FSA": "M1E",
+    "RATINGS": 3.7
+  },
+  {
+    "name": "Guildwood",
+    "lat": 40.6410909,
+    "lng": -74.279117,
+    "FSA": "M1E",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "St Margaret's",
+    "lat": 43.7679964,
+    "lng": -79.1957525,
+    "FSA": "M1E",
+    "RATINGS": 3.7
+  },
+  {
+    "name": "Joseph Brant",
+    "lat": 43.7669449,
+    "lng": -79.1755888,
+    "FSA": "M1E",
+    "RATINGS": 3.2
+  },
+  {
+    "name": "Military Trail",
+    "lat": 43.7895915,
+    "lng": -79.1974851,
+    "FSA": "M1E",
+    "RATINGS": 4
+  },
+  {
+    "name": "William G Miller",
+    "lat": 43.7685981,
+    "lng": -79.1651188,
+    "FSA": "M1E",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "Cornell",
+    "lat": 43.759448,
+    "lng": -79.218356,
+    "FSA": "M1G",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "Woburn",
+    "lat": 43.7794066,
+    "lng": -79.2268756,
+    "FSA": "M1G",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "Willow Park",
+    "lat": 40.3224102,
+    "lng": -75.592297,
+    "FSA": "M1G",
+    "RATINGS": 4
+  },
+  {
+    "name": "Heather Heights",
+    "lat": 43.7750444,
+    "lng": -79.2150344,
+    "FSA": "M1G",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Golf Road",
+    "lat": 43.7637973,
+    "lng": -79.216866,
+    "FSA": "M1G",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "George B Little",
+    "lat": 43.7710633,
+    "lng": -79.2080804,
+    "FSA": "M1G",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Churchill Heights",
+    "lat": 43.7730799,
+    "lng": -79.2239156,
+    "FSA": "M1G",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "North Bendale",
+    "lat": 43.7703864,
+    "lng": -79.2479843,
+    "FSA": "M1H",
+    "RATINGS": 8.1
+  },
+  {
+    "name": "William Tredway",
+    "lat": 43.7650406,
+    "lng": -79.235276,
+    "FSA": "M1H",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "Bellmere",
+    "lat": 43.7718397,
+    "lng": -79.2351275,
+    "FSA": "M1H",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Bendale",
+    "lat": 43.7624996,
+    "lng": -79.2448337,
+    "FSA": "M1H",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Cedar Drive",
+    "lat": 43.746532,
+    "lng": -79.2150967,
+    "FSA": "M1J",
+    "RATINGS": 4
+  },
+  {
+    "name": "Cedarbrook",
+    "lat": 42.2816245,
+    "lng": -71.0820202,
+    "FSA": "M1J",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "John McCrae",
+    "lat": 43.7439455,
+    "lng": -79.2397404,
+    "FSA": "M1J",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "Knob Hill",
+    "lat": 42.2720677,
+    "lng": -71.4351544,
+    "FSA": "M1J",
+    "RATINGS": 3.8
+  },
+  {
+    "name": "Glen Ravine",
+    "lat": 43.7381342,
+    "lng": -79.2540714,
+    "FSA": "M1K",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Hunter's Glen",
+    "lat": 43.745638,
+    "lng": -79.260708,
+    "FSA": "M1K",
+    "RATINGS": 7.3
+  },
+  {
+    "name": "Lord Roberts",
+    "lat": 43.7413463,
+    "lng": -79.2635547,
+    "FSA": "M1K",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Corvette",
+    "lat": 43.7266137,
+    "lng": -79.2622055,
+    "FSA": "M1K",
+    "RATINGS": 4
+  },
+  {
+    "name": "Walter Perry",
+    "lat": 40.9082998,
+    "lng": -74.1287903,
+    "FSA": "M1K",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Norman Cook",
+    "lat": 43.6791566,
+    "lng": -79.343113,
+    "FSA": "M1K",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "Ionview",
+    "lat": 43.7374809,
+    "lng": -79.2743163,
+    "FSA": "M1K",
+    "RATINGS": 2
+  },
+  {
+    "name": "J G Workman",
+    "lat": 43.7071846,
+    "lng": -79.267175,
+    "FSA": "M1K",
+    "RATINGS": 3.9
+  },
+  {
+    "name": "Danforth Gardens",
+    "lat": 34.0906482,
+    "lng": -118.3468075,
+    "FSA": "M1L",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "General Brock",
+    "lat": 43.718498,
+    "lng": -79.2745827,
+    "FSA": "M1L",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "Clairlea",
+    "lat": 43.7164231,
+    "lng": -79.2964555,
+    "FSA": "M1L",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "Regent Heights",
+    "lat": 43.7075916,
+    "lng": -79.2894428,
+    "FSA": "M1L",
+    "RATINGS": 7
+  },
+  {
+    "name": "Warden Avenue",
+    "lat": 43.7002802,
+    "lng": -79.2768235,
+    "FSA": "M1L",
+    "RATINGS": 4
+  },
+  {
+    "name": "Anson Park",
+    "lat": 43.7261656,
+    "lng": -79.2410129,
+    "FSA": "M1M",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "Chine Drive",
+    "lat": 43.7098915,
+    "lng": -79.24161,
+    "FSA": "M1M",
+    "RATINGS": 8.9
+  },
+  {
+    "name": "George P Mackie",
+    "lat": 43.7393821,
+    "lng": -79.2118749,
+    "FSA": "M1M",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "Mason Road",
+    "lat": 42.019557,
+    "lng": -76.100215,
+    "FSA": "M1M",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "H A Halbert",
+    "lat": 43.7275267,
+    "lng": -79.2333816,
+    "FSA": "M1M",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "Fairmount",
+    "lat": 43.7196225,
+    "lng": -79.2309066,
+    "FSA": "M1M",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Birch Cliff Heights",
+    "lat": 40.9632375,
+    "lng": -73.8162895,
+    "FSA": "M1N",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "Blantyre",
+    "lat": 43.6850544,
+    "lng": -79.2831105,
+    "FSA": "M1N",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "John A Leslie",
+    "lat": 43.7138546,
+    "lng": -79.2490169,
+    "FSA": "M1N",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "Courcelette",
+    "lat": 43.6793099,
+    "lng": -79.2786471,
+    "FSA": "M1N",
+    "RATINGS": 8.5
+  },
+  {
+    "name": "Birch Cliff",
+    "lat": 43.8464974,
+    "lng": -79.0769952,
+    "FSA": "M1N",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "Glamorgan",
+    "lat": 43.7714329,
+    "lng": -79.2894207,
+    "FSA": "M1P",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St Andrews",
+    "lat": 43.7665383,
+    "lng": -79.254894,
+    "FSA": "M1P",
+    "RATINGS": 8
+  },
+  {
+    "name": "Ellesmere-Statton",
+    "lat": 43.763525,
+    "lng": -79.2871311,
+    "FSA": "M1P",
+    "RATINGS": 6
+  },
+  {
+    "name": "Donwood Park",
+    "lat": 43.7570798,
+    "lng": -79.2622391,
+    "FSA": "M1P",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Edgewood",
+    "lat": 43.7662346,
+    "lng": -79.2660967,
+    "FSA": "M1P",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "Dorset Park",
+    "lat": 43.7502057,
+    "lng": -79.2798225,
+    "FSA": "M1P",
+    "RATINGS": 5
+  },
+  {
+    "name": "General Crerar",
+    "lat": 43.7455672,
+    "lng": -79.279906,
+    "FSA": "M1P",
+    "RATINGS": 4.5
+  },
+  {
+    "name": "Wexford",
+    "lat": 43.7399419,
+    "lng": -79.3040879,
+    "FSA": "M1R",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Maryvale",
+    "lat": 43.7548022,
+    "lng": -79.307956,
+    "FSA": "M1R",
+    "RATINGS": 3.9
+  },
+  {
+    "name": "Terraview-Willowfield",
+    "lat": 43.7636664,
+    "lng": -79.3089241,
+    "FSA": "M1R",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "Manhattan Park",
+    "lat": 39.9878462,
+    "lng": -105.2271908,
+    "FSA": "M1R",
+    "RATINGS": 3.8
+  },
+  {
+    "name": "George Peck",
+    "lat": 41.135634,
+    "lng": -73.9871121,
+    "FSA": "M1R",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Buchanan",
+    "lat": 43.7513585,
+    "lng": -79.2998861,
+    "FSA": "M1R",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "White Haven",
+    "lat": 43.787995,
+    "lng": -79.2475785,
+    "FSA": "M1S",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Anson S Taylor",
+    "lat": 43.804198,
+    "lng": -79.2614429,
+    "FSA": "M1S",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Iroquois",
+    "lat": 43.8026811,
+    "lng": -79.2693925,
+    "FSA": "M1S",
+    "RATINGS": 9
+  },
+  {
+    "name": "C D Farquharson",
+    "lat": 43.7850734,
+    "lng": -79.2663456,
+    "FSA": "M1S",
+    "RATINGS": 8.9
+  },
+  {
+    "name": "Agincourt",
+    "lat": 43.7882914,
+    "lng": -79.2811845,
+    "FSA": "M1S",
+    "RATINGS": 8.1
+  },
+  {
+    "name": "North Agincourt",
+    "lat": 43.7965507,
+    "lng": -79.2761886,
+    "FSA": "M1S",
+    "RATINGS": 7.3
+  },
+  {
+    "name": "Chartland",
+    "lat": 43.7998434,
+    "lng": -79.278822,
+    "FSA": "M1S",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Lynngate",
+    "lat": 43.7766218,
+    "lng": -79.3005159,
+    "FSA": "M1T",
+    "RATINGS": 4.4
+  },
+  {
+    "name": "Pauline Johnson",
+    "lat": 43.7849555,
+    "lng": -79.3034216,
+    "FSA": "M1T",
+    "RATINGS": 4.5
+  },
+  {
+    "name": "Bridlewood",
+    "lat": 43.7808347,
+    "lng": -79.3149993,
+    "FSA": "M1T",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Highland Heights",
+    "lat": 43.7944968,
+    "lng": -79.3003398,
+    "FSA": "M1T",
+    "RATINGS": 1.8
+  },
+  {
+    "name": "Inglewood Heights",
+    "lat": 43.7795378,
+    "lng": -79.2924889,
+    "FSA": "M1T",
+    "RATINGS": 8
+  },
+  {
+    "name": "Tam O'Shanter",
+    "lat": 43.7849732,
+    "lng": -79.2976353,
+    "FSA": "M1T",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Vradenburg",
+    "lat": 43.774388,
+    "lng": -79.3083605,
+    "FSA": "M1T",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "Brimwood Boulevard",
+    "lat": 43.8119975,
+    "lng": -79.2736426,
+    "FSA": "M1V",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "Silver Springs",
+    "lat": 43.8044027,
+    "lng": -79.3019248,
+    "FSA": "M1V",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "Percy Williams",
+    "lat": 43.8126477,
+    "lng": -79.2656409,
+    "FSA": "M1V",
+    "RATINGS": 8.2
+  },
+  {
+    "name": "Alexmuir",
+    "lat": 43.8090649,
+    "lng": -79.2862068,
+    "FSA": "M1V",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "Agnes Macphail",
+    "lat": 43.8188028,
+    "lng": -79.2791905,
+    "FSA": "M1V",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Milliken",
+    "lat": 43.8162124,
+    "lng": -79.2876492,
+    "FSA": "M1V",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "Banting and Best",
+    "lat": 43.8267879,
+    "lng": -79.2798585,
+    "FSA": "M1V",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "Port Royal",
+    "lat": 43.8245514,
+    "lng": -79.2899491,
+    "FSA": "M1V",
+    "RATINGS": 8.8
+  },
+  {
+    "name": "Kennedy",
+    "lat": 43.8188922,
+    "lng": -79.3082188,
+    "FSA": "M1V",
+    "RATINGS": 8.4
+  },
+  {
+    "name": "Macklin",
+    "lat": 43.8215631,
+    "lng": -79.267387,
+    "FSA": "M1V",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "Timberbank",
+    "lat": 43.7920421,
+    "lng": -79.3079058,
+    "FSA": "M1W",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Terry Fox",
+    "lat": 43.8159151,
+    "lng": -79.3186088,
+    "FSA": "M1W",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "Chester Le",
+    "lat": 43.7990192,
+    "lng": -79.331461,
+    "FSA": "M1W",
+    "RATINGS": 3.2
+  },
+  {
+    "name": "Brookmill Boulevard",
+    "lat": 43.8013285,
+    "lng": -79.3147792,
+    "FSA": "M1W",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "North Bridlewood",
+    "lat": 43.7887813,
+    "lng": -79.3186264,
+    "FSA": "M1W",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Beverly Glen",
+    "lat": 43.7986425,
+    "lng": -79.3231425,
+    "FSA": "M1W",
+    "RATINGS": 9.2
+  },
+  {
+    "name": "Fairglen",
+    "lat": 43.7850352,
+    "lng": -79.3221888,
+    "FSA": "M1W",
+    "RATINGS": 8.2
+  },
+  {
+    "name": "David Lewis",
+    "lat": 43.8091302,
+    "lng": -79.3179862,
+    "FSA": "M1W",
+    "RATINGS": 8.9
+  },
+  {
+    "name": "Sir Samuel B Steele",
+    "lat": 43.8070883,
+    "lng": -79.3272799,
+    "FSA": "M1W",
+    "RATINGS": 7.3
+  },
+  {
+    "name": "Thomas L Wells",
+    "lat": 43.824334,
+    "lng": -79.2262145,
+    "FSA": "M1X",
+    "RATINGS": 8.4
+  },
+  {
+    "name": "Brookside",
+    "lat": 43.8301419,
+    "lng": -79.2335726,
+    "FSA": "M1X",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "Shaughnessy",
+    "lat": 43.7704422,
+    "lng": -79.3516014,
+    "FSA": "M2J",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "Dunlace",
+    "lat": 43.7622441,
+    "lng": -79.3704177,
+    "FSA": "M2L",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Harrison",
+    "lat": 33.7021467,
+    "lng": -117.7148178,
+    "FSA": "M2L",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "R J Lang",
+    "lat": 43.7837926,
+    "lng": -79.4266087,
+    "FSA": "M2M",
+    "RATINGS": 1.9
+  },
+  {
+    "name": "Avondale",
+    "lat": 43.7598554,
+    "lng": -79.4001547,
+    "FSA": "M2N",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Owen",
+    "lat": 43.7493601,
+    "lng": -79.3926242,
+    "FSA": "M2P",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Pleasant",
+    "lat": 43.7898748,
+    "lng": -79.4340807,
+    "FSA": "M2R",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Rockford",
+    "lat": 43.7858219,
+    "lng": -79.4523692,
+    "FSA": "M2R",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Denlow",
+    "lat": 43.7456819,
+    "lng": -79.3641527,
+    "FSA": "M3B",
+    "RATINGS": 9.3
+  },
+  {
+    "name": "Rippleton",
+    "lat": 43.7409428,
+    "lng": -79.36002,
+    "FSA": "M3B",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Gateway",
+    "lat": 43.7119193,
+    "lng": -79.3306448,
+    "FSA": "M3C",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "Grenoble",
+    "lat": 43.7156302,
+    "lng": -79.3329941,
+    "FSA": "M3C",
+    "RATINGS": 4.1
+  },
+  {
+    "name": "Summit Heights",
+    "lat": 43.7413884,
+    "lng": -79.4301773,
+    "FSA": "M3H",
+    "RATINGS": 8.8
+  },
+  {
+    "name": "Dublin Heights",
+    "lat": 43.7852097,
+    "lng": -79.6108171,
+    "FSA": "M3H",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Faywood Arts",
+    "lat": 43.7395533,
+    "lng": -79.4472295,
+    "FSA": "M3H",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "George Webster",
+    "lat": 43.7014672,
+    "lng": -79.2992832,
+    "FSA": "M4B",
+    "RATINGS": 5
+  },
+  {
+    "name": "Earl Haig",
+    "lat": 43.6815764,
+    "lng": -79.3202417,
+    "FSA": "M4C",
+    "RATINGS": 8
+  },
+  {
+    "name": "Gledhill",
+    "lat": 43.6875045,
+    "lng": -79.3091041,
+    "FSA": "M4C",
+    "RATINGS": 4.5
+  },
+  {
+    "name": "Earl Beatty",
+    "lat": 43.6859133,
+    "lng": -79.3212939,
+    "FSA": "M4C",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "Kimberley",
+    "lat": 43.6826286,
+    "lng": -79.2991311,
+    "FSA": "M4E",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Williamson Road",
+    "lat": 43.6745197,
+    "lng": -79.297473,
+    "FSA": "M4E",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Adam Beck",
+    "lat": 31.257365,
+    "lng": -85.661342,
+    "FSA": "M4E",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Balmy Beach",
+    "lat": 41.5652934,
+    "lng": -70.4712467,
+    "FSA": "M4E",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Northlea",
+    "lat": 43.7145182,
+    "lng": -79.3696137,
+    "FSA": "M4G",
+    "RATINGS": 8.3
+  },
+  {
+    "name": "Bennington Heights",
+    "lat": 43.693568,
+    "lng": -79.369623,
+    "FSA": "M4G",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Blake Street",
+    "lat": 43.6718149,
+    "lng": -79.3384795,
+    "FSA": "M4J",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "Wilkinson",
+    "lat": 43.6820666,
+    "lng": -79.3376704,
+    "FSA": "M4J",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Pape Avenue",
+    "lat": 43.6703605,
+    "lng": -79.3418968,
+    "FSA": "M4K",
+    "RATINGS": 8
+  },
+  {
+    "name": "Jackman Avenue",
+    "lat": 43.6806588,
+    "lng": -79.3539386,
+    "FSA": "M4K",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Withrow Avenue",
+    "lat": 43.6706144,
+    "lng": -79.3520886,
+    "FSA": "M4K",
+    "RATINGS": 9
+  },
+  {
+    "name": "Frankland",
+    "lat": 44.9867676,
+    "lng": -93.3030228,
+    "FSA": "M4K",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Kew Beach",
+    "lat": 43.6684728,
+    "lng": -79.3027305,
+    "FSA": "M4L",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Norway",
+    "lat": 43.6765008,
+    "lng": -79.3063272,
+    "FSA": "M4L",
+    "RATINGS": 7.3
+  },
+  {
+    "name": "Bowmore Road",
+    "lat": 43.6765732,
+    "lng": -79.3149553,
+    "FSA": "M4L",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Roden",
+    "lat": 43.6738611,
+    "lng": -79.3231195,
+    "FSA": "M4L",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Duke of Connaught",
+    "lat": 43.6658905,
+    "lng": -79.3227024,
+    "FSA": "M4L",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "Whole Child",
+    "lat": 43.6738611,
+    "lng": -79.3231195,
+    "FSA": "M4L",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "Leslieville",
+    "lat": 43.6674114,
+    "lng": -79.3325613,
+    "FSA": "M4M",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "Morse Street",
+    "lat": 43.6601755,
+    "lng": -79.3401699,
+    "FSA": "M4M",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Bruce",
+    "lat": 43.6610444,
+    "lng": -79.3333393,
+    "FSA": "M4M",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "First Nations School of Toronto",
+    "lat": 43.599916,
+    "lng": -79.595054,
+    "FSA": "M4M",
+    "RATINGS": 1.6
+  },
+  {
+    "name": "Bedford Park",
+    "lat": 43.7277246,
+    "lng": -79.4002692,
+    "FSA": "M4N",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Blythwood",
+    "lat": 43.7198522,
+    "lng": -79.389197,
+    "FSA": "M4N",
+    "RATINGS": 9.1
+  },
+  {
+    "name": "John Ross Robertson",
+    "lat": 43.7183346,
+    "lng": -79.4088675,
+    "FSA": "M4R",
+    "RATINGS": 9.3
+  },
+  {
+    "name": "Davisville",
+    "lat": 43.6993769,
+    "lng": -79.3949243,
+    "FSA": "M4S",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Whitney",
+    "lat": 43.6871689,
+    "lng": -79.3784005,
+    "FSA": "M4T",
+    "RATINGS": 9.5
+  },
+  {
+    "name": "Deer Park",
+    "lat": 41.358112,
+    "lng": -74.123657,
+    "FSA": "M4T",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "Brown",
+    "lat": 43.6847687,
+    "lng": -79.4009306,
+    "FSA": "M4V",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "Rosedale",
+    "lat": 41.4227572,
+    "lng": -73.6047972,
+    "FSA": "M4W",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "Rose Avenue",
+    "lat": 43.6701737,
+    "lng": -79.3725087,
+    "FSA": "M4X",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Church Street",
+    "lat": 32.7893883,
+    "lng": -79.930966,
+    "FSA": "M4Y",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "Lord Dufferin",
+    "lat": 43.6606768,
+    "lng": -79.3668498,
+    "FSA": "M5A",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Market Lane",
+    "lat": 43.6497565,
+    "lng": -79.3646344,
+    "FSA": "M5A",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Nelson Mandela Park",
+    "lat": 43.6580572,
+    "lng": -79.3607667,
+    "FSA": "M5A",
+    "RATINGS": 3.3
+  },
+  {
+    "name": "Sprucecourt",
+    "lat": 33.7560213,
+    "lng": -84.3617217,
+    "FSA": "M5A",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Island Public/Natural Science",
+    "lat": 43.6155447,
+    "lng": -79.3788491,
+    "FSA": "M5J",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "Armour Heights",
+    "lat": 40.7002795,
+    "lng": -73.9253503,
+    "FSA": "M5M",
+    "RATINGS": 8.4
+  },
+  {
+    "name": "John Wanless",
+    "lat": 43.7286446,
+    "lng": -79.4120987,
+    "FSA": "M5M",
+    "RATINGS": 8.5
+  },
+  {
+    "name": "Ledbury Park",
+    "lat": 43.7274261,
+    "lng": -79.4271267,
+    "FSA": "M5M",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Allenby",
+    "lat": 43.7096995,
+    "lng": -79.4129132,
+    "FSA": "M5N",
+    "RATINGS": 8.2
+  },
+  {
+    "name": "North Preparatory",
+    "lat": 43.7054909,
+    "lng": -79.4203883,
+    "FSA": "M5N",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Forest Hill",
+    "lat": 43.6955213,
+    "lng": -79.4139356,
+    "FSA": "M5P",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Huron Street",
+    "lat": 43.6710468,
+    "lng": -79.4024143,
+    "FSA": "M5R",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Jesse Ketchum",
+    "lat": 43.67289,
+    "lng": -79.3920399,
+    "FSA": "M5R",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Hillcrest",
+    "lat": 40.722077,
+    "lng": -73.6380989,
+    "FSA": "M5R",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "King Edward",
+    "lat": 43.6576033,
+    "lng": -79.4072396,
+    "FSA": "M5S",
+    "RATINGS": 4.2
+  },
+  {
+    "name": "Orde Street",
+    "lat": 43.6583217,
+    "lng": -79.3920484,
+    "FSA": "M5T",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Ogden",
+    "lat": 43.649911,
+    "lng": -79.3953435,
+    "FSA": "M5T",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "Ryerson",
+    "lat": 43.6512774,
+    "lng": -79.4024241,
+    "FSA": "M5T",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "The Waterfront",
+    "lat": 43.6362375,
+    "lng": -79.3972209,
+    "FSA": "M5V",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Glen Park",
+    "lat": 43.713219,
+    "lng": -79.4356652,
+    "FSA": "M6B",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Joyce",
+    "lat": 43.7103603,
+    "lng": -79.4638439,
+    "FSA": "M6B",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "West Preparatory",
+    "lat": 43.7025172,
+    "lng": -79.4330705,
+    "FSA": "M6C",
+    "RATINGS": 8.1
+  },
+  {
+    "name": "Humewood",
+    "lat": 43.686776,
+    "lng": -79.4282897,
+    "FSA": "M6C",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "J R Wilcox",
+    "lat": 43.6952455,
+    "lng": -79.4362188,
+    "FSA": "M6C",
+    "RATINGS": 4.4
+  },
+  {
+    "name": "Fairbank",
+    "lat": 43.6942744,
+    "lng": -79.4490216,
+    "FSA": "M6E",
+    "RATINGS": 4.6
+  },
+  {
+    "name": "F H Miller",
+    "lat": 43.6832832,
+    "lng": -79.4583028,
+    "FSA": "M6E",
+    "RATINGS": 0.7
+  },
+  {
+    "name": "Rawlinson",
+    "lat": 43.6838135,
+    "lng": -79.4403876,
+    "FSA": "M6E",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "McMurrich",
+    "lat": 43.6779351,
+    "lng": -79.430978,
+    "FSA": "M6G",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Essex",
+    "lat": 40.8940516,
+    "lng": -74.0767736,
+    "FSA": "M6G",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "Clinton Street",
+    "lat": 43.6576089,
+    "lng": -79.4137061,
+    "FSA": "M6G",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "Palmerston Avenue",
+    "lat": 43.6680508,
+    "lng": -79.4151857,
+    "FSA": "M6G",
+    "RATINGS": 8
+  },
+  {
+    "name": "Hawthorne II Bilingual",
+    "lat": 40.8940516,
+    "lng": -74.0767736,
+    "FSA": "M6G",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "Brock",
+    "lat": 43.652767,
+    "lng": -79.43804,
+    "FSA": "M6H",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "Dovercourt",
+    "lat": 43.6667441,
+    "lng": -79.4357822,
+    "FSA": "M6H",
+    "RATINGS": 4.2
+  },
+  {
+    "name": "Dewson Street",
+    "lat": 40.6271872,
+    "lng": -73.643549,
+    "FSA": "M6H",
+    "RATINGS": 8
+  },
+  {
+    "name": "Regal Road",
+    "lat": 43.6737838,
+    "lng": -79.4400665,
+    "FSA": "M6H",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Pauline",
+    "lat": 42.1611213,
+    "lng": -87.9573149,
+    "FSA": "M6H",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Niagara Street",
+    "lat": 43.6439636,
+    "lng": -79.4084905,
+    "FSA": "M6J",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Givins/Shaw",
+    "lat": 43.6463477,
+    "lng": -79.4178754,
+    "FSA": "M6J",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Ossington/Old Orchard",
+    "lat": 43.6527162,
+    "lng": -79.422603,
+    "FSA": "M6J",
+    "RATINGS": 9.1
+  },
+  {
+    "name": "Charles G Fraser",
+    "lat": 37.367532,
+    "lng": -121.8285488,
+    "FSA": "M6J",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "Alexander Muir/Gladstone Ave",
+    "lat": 46.5204029,
+    "lng": -84.3232678,
+    "FSA": "M6J",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "Shirley Street",
+    "lat": 43.6486765,
+    "lng": -79.4365445,
+    "FSA": "M6K",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Queen Victoria",
+    "lat": 43.6366099,
+    "lng": -79.4347327,
+    "FSA": "M6K",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Parkdale",
+    "lat": 43.6429546,
+    "lng": -79.4369739,
+    "FSA": "M6K",
+    "RATINGS": 2.8
+  },
+  {
+    "name": "Maple Leaf",
+    "lat": 43.7149905,
+    "lng": -79.4902056,
+    "FSA": "M6L",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "Charles E Webster",
+    "lat": 43.6936611,
+    "lng": -79.4750111,
+    "FSA": "M6M",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Kane",
+    "lat": 43.6871776,
+    "lng": -79.4692586,
+    "FSA": "M6M",
+    "RATINGS": 4.2
+  },
+  {
+    "name": "Portage Trail Junior Community",
+    "lat": 43.692329,
+    "lng": -79.509687,
+    "FSA": "M6M",
+    "RATINGS": 4
+  },
+  {
+    "name": "Roselands",
+    "lat": 43.681197,
+    "lng": -79.4988914,
+    "FSA": "M6N",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "Cordella",
+    "lat": 43.6791435,
+    "lng": -79.4876266,
+    "FSA": "M6N",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "General Mercer",
+    "lat": 43.6790683,
+    "lng": -79.4640157,
+    "FSA": "M6N",
+    "RATINGS": 3.3
+  },
+  {
+    "name": "Harwood",
+    "lat": 40.6355532,
+    "lng": -74.9092995,
+    "FSA": "M6N",
+    "RATINGS": 5
+  },
+  {
+    "name": "Carleton Village",
+    "lat": 43.6726421,
+    "lng": -79.4601443,
+    "FSA": "M6N",
+    "RATINGS": 4.8
+  },
+  {
+    "name": "Annette Street",
+    "lat": 43.6608864,
+    "lng": -79.4737266,
+    "FSA": "M6P",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "Perth Avenue",
+    "lat": 41.9957505,
+    "lng": -71.4829247,
+    "FSA": "M6P",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Keele Street",
+    "lat": 41.6352128,
+    "lng": -71.4121366,
+    "FSA": "M6P",
+    "RATINGS": 5.8
+  },
+  {
+    "name": "Mountview Alternative",
+    "lat": 41.6352128,
+    "lng": -71.4121366,
+    "FSA": "M6P",
+    "RATINGS": 8
+  },
+  {
+    "name": "Indian Road Crescent",
+    "lat": 43.6626171,
+    "lng": -79.4600608,
+    "FSA": "M6P",
+    "RATINGS": 7.3
+  },
+  {
+    "name": "Fern Avenue",
+    "lat": 36.196844,
+    "lng": -86.781746,
+    "FSA": "M6R",
+    "RATINGS": 7
+  },
+  {
+    "name": "Garden Avenue",
+    "lat": 45.7649505,
+    "lng": -108.4832622,
+    "FSA": "M6R",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Swansea",
+    "lat": 43.6434659,
+    "lng": -79.4770883,
+    "FSA": "M6S",
+    "RATINGS": 9.1
+  },
+  {
+    "name": "Warren Park",
+    "lat": 43.6628193,
+    "lng": -79.4994273,
+    "FSA": "M6S",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "King George",
+    "lat": 35.1580112,
+    "lng": -80.8321747,
+    "FSA": "M6S",
+    "RATINGS": 7
+  },
+  {
+    "name": "Runnymede",
+    "lat": 43.6559379,
+    "lng": -79.477485,
+    "FSA": "M6S",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "John English",
+    "lat": 43.6120557,
+    "lng": -79.4943794,
+    "FSA": "M8V",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Second Street",
+    "lat": 40.7264704,
+    "lng": -73.9895799,
+    "FSA": "M8V",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Lanor",
+    "lat": 43.609336,
+    "lng": -79.5451619,
+    "FSA": "M8W",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "James S Bell",
+    "lat": 43.5939496,
+    "lng": -79.5299815,
+    "FSA": "M8W",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Lambton Kingsway",
+    "lat": 43.6589575,
+    "lng": -79.5089642,
+    "FSA": "M8X",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Park Lawn",
+    "lat": 43.6376642,
+    "lng": -79.4967985,
+    "FSA": "M8Y",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Norseman",
+    "lat": 43.6342673,
+    "lng": -79.5165462,
+    "FSA": "M8Z",
+    "RATINGS": 7.9
+  },
+  {
+    "name": "Islington",
+    "lat": 43.6479304,
+    "lng": -79.5276102,
+    "FSA": "M9A",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "Humber Valley Village",
+    "lat": 43.6654635,
+    "lng": -79.5267309,
+    "FSA": "M9A",
+    "RATINGS": 9.3
+  },
+  {
+    "name": "Gulfstream",
+    "lat": 43.7388698,
+    "lng": -79.5424591,
+    "FSA": "M9M",
+    "RATINGS": 6
+  },
+  {
+    "name": "Valleyfield",
+    "lat": 43.694273,
+    "lng": -79.538835,
+    "FSA": "M9P",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Dixon Grove",
+    "lat": 43.6851346,
+    "lng": -79.556537,
+    "FSA": "M9R",
+    "RATINGS": 4.2
+  },
+  {
+    "name": "Beaumonde Heights",
+    "lat": 43.7425535,
+    "lng": -79.574963,
+    "FSA": "M9V",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "North Kipling",
+    "lat": 43.7517681,
+    "lng": -79.5844929,
+    "FSA": "M9V",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "Greenholme",
+    "lat": 43.7349842,
+    "lng": -79.5829068,
+    "FSA": "M9V",
+    "RATINGS": 4.8
+  },
+  {
+    "name": "Albion Heights",
+    "lat": 43.7313128,
+    "lng": -79.5943549,
+    "FSA": "M9V",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "Elmbank",
+    "lat": 43.7369933,
+    "lng": -79.5895916,
+    "FSA": "M9V",
+    "RATINGS": 4.8
+  },
+  {
+    "name": "West Humber",
+    "lat": 43.7239329,
+    "lng": -79.5810213,
+    "FSA": "M9W",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "The Elms",
+    "lat": 43.7226446,
+    "lng": -79.5518165,
+    "FSA": "M9W",
+    "RATINGS": 5.4
+  },
+  {
+    "name": "Humberwood Downs",
+    "lat": 43.7287533,
+    "lng": -79.6191535,
+    "FSA": "M9W",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "St Barnabas",
+    "lat": 43.7972,
+    "lng": -79.228293,
+    "FSA": "M1B",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Bede",
+    "lat": 43.8178439,
+    "lng": -79.2067819,
+    "FSA": "M1B",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "St Columba",
+    "lat": 43.8061979,
+    "lng": -79.2117176,
+    "FSA": "M1B",
+    "RATINGS": 3.8
+  },
+  {
+    "name": "St Dominic Savio",
+    "lat": 43.7979572,
+    "lng": -79.1559556,
+    "FSA": "M1B",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Florence",
+    "lat": 43.7985032,
+    "lng": -79.2069582,
+    "FSA": "M1B",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Gabriel Lalemant",
+    "lat": 43.8124993,
+    "lng": -79.2266994,
+    "FSA": "M1B",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "Sacred Heart",
+    "lat": 43.8121748,
+    "lng": -79.2201782,
+    "FSA": "M1B",
+    "RATINGS": 4.5
+  },
+  {
+    "name": "St Jean de Brebeuf",
+    "lat": 43.8023044,
+    "lng": -79.1739882,
+    "FSA": "M1B",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "St Brendan",
+    "lat": 43.7829521,
+    "lng": -79.149244,
+    "FSA": "M1C",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Cardinal Leger",
+    "lat": 43.7932108,
+    "lng": -79.1754871,
+    "FSA": "M1C",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "St Edmund Campion",
+    "lat": 43.7879438,
+    "lng": -79.2155955,
+    "FSA": "M1E",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Malachy",
+    "lat": 43.7702881,
+    "lng": -79.1662526,
+    "FSA": "M1E",
+    "RATINGS": 7
+  },
+  {
+    "name": "St Martin de Porres",
+    "lat": 41.536443,
+    "lng": -87.3395557,
+    "FSA": "M1E",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "St Ursula",
+    "lat": 41.5122035,
+    "lng": -72.6417957,
+    "FSA": "M1E",
+    "RATINGS": 3.9
+  },
+  {
+    "name": "St Barbara",
+    "lat": 43.7625002,
+    "lng": -79.2189885,
+    "FSA": "M1G",
+    "RATINGS": 4
+  },
+  {
+    "name": "St Thomas More",
+    "lat": 43.7784014,
+    "lng": -79.2252454,
+    "FSA": "M1G",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "St Richard",
+    "lat": 43.768536,
+    "lng": -79.2400929,
+    "FSA": "M1H",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "St Rose of Lima",
+    "lat": 43.7573036,
+    "lng": -79.2405775,
+    "FSA": "M1H",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "St Nicholas",
+    "lat": 43.7402467,
+    "lng": -79.2447217,
+    "FSA": "M1J",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Albert",
+    "lat": 43.0276407,
+    "lng": -76.1518576,
+    "FSA": "M1K",
+    "RATINGS": 3.9
+  },
+  {
+    "name": "St Maria Goretti",
+    "lat": 43.7296872,
+    "lng": -79.265558,
+    "FSA": "M1K",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "St Dunstan",
+    "lat": 43.6934759,
+    "lng": -79.2844177,
+    "FSA": "M1L",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "St Joachim",
+    "lat": 43.7130009,
+    "lng": -79.2753645,
+    "FSA": "M1L",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "Our Lady of Fatima",
+    "lat": 43.7099528,
+    "lng": -79.2934715,
+    "FSA": "M1L",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "St Agatha",
+    "lat": 43.7235507,
+    "lng": -79.2301649,
+    "FSA": "M1M",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Boniface",
+    "lat": 43.7405407,
+    "lng": -79.2198698,
+    "FSA": "M1M",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "St Theresa Shrine",
+    "lat": 43.7156135,
+    "lng": -79.2426039,
+    "FSA": "M1M",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "St Lawrence",
+    "lat": 43.7491983,
+    "lng": -79.2799536,
+    "FSA": "M1P",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "St Victor",
+    "lat": 43.7690509,
+    "lng": -79.2591665,
+    "FSA": "M1P",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "St Kevin",
+    "lat": 43.7512786,
+    "lng": -79.3063904,
+    "FSA": "M1R",
+    "RATINGS": 5
+  },
+  {
+    "name": "Precious Blood",
+    "lat": 43.7393078,
+    "lng": -79.3021449,
+    "FSA": "M1R",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "St Elizabeth Seton",
+    "lat": 43.7888379,
+    "lng": -79.2467889,
+    "FSA": "M1S",
+    "RATINGS": 3.9
+  },
+  {
+    "name": "St Ignatius of Loyola",
+    "lat": 43.8031728,
+    "lng": -79.2654647,
+    "FSA": "M1S",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "Holy Spirit",
+    "lat": 43.7810611,
+    "lng": -79.3029087,
+    "FSA": "M1T",
+    "RATINGS": 6
+  },
+  {
+    "name": "Our Lady of Grace",
+    "lat": 43.8124149,
+    "lng": -79.2748893,
+    "FSA": "M1V",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Prince of Peace",
+    "lat": 43.825423,
+    "lng": -79.2788527,
+    "FSA": "M1V",
+    "RATINGS": 8.3
+  },
+  {
+    "name": "St Sylvester",
+    "lat": 43.8052887,
+    "lng": -79.3022775,
+    "FSA": "M1V",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "The Divine Infant",
+    "lat": 43.8218159,
+    "lng": -79.2703974,
+    "FSA": "M1V",
+    "RATINGS": 8.1
+  },
+  {
+    "name": "St Aidan",
+    "lat": 43.7972494,
+    "lng": -79.3091446,
+    "FSA": "M1W",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "Epiphany of our Lord",
+    "lat": 43.7989595,
+    "lng": -79.3288643,
+    "FSA": "M1W",
+    "RATINGS": 2.5
+  },
+  {
+    "name": "St Henry",
+    "lat": 43.8138055,
+    "lng": -79.3279841,
+    "FSA": "M1W",
+    "RATINGS": 8.3
+  },
+  {
+    "name": "Blessed Pier Giorgio Frassati",
+    "lat": 43.038218,
+    "lng": -71.4314438,
+    "FSA": "M1X",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "St Gerald",
+    "lat": 43.7806886,
+    "lng": -79.3263996,
+    "FSA": "M2J",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "St Matthias",
+    "lat": 43.7848327,
+    "lng": -79.3594811,
+    "FSA": "M2J",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "St Timothy",
+    "lat": 43.7748717,
+    "lng": -79.351044,
+    "FSA": "M2J",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "Blessed Kateri Tekakwitha",
+    "lat": 43.4561853,
+    "lng": -80.4887281,
+    "FSA": "M2J",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "Our Lady of Guadalupe Catholic",
+    "lat": 43.7901548,
+    "lng": -79.3531561,
+    "FSA": "M2J",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Blessed Trinity",
+    "lat": 43.7866855,
+    "lng": -79.3918689,
+    "FSA": "M2K",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "St Agnes",
+    "lat": 43.7985987,
+    "lng": -79.402644,
+    "FSA": "M2M",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "St Paschal Baylon",
+    "lat": 43.7920737,
+    "lng": -79.4313569,
+    "FSA": "M2M",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "St Antoine Daniel",
+    "lat": 43.7770534,
+    "lng": -79.4296862,
+    "FSA": "M2N",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "St Edward",
+    "lat": 43.7530535,
+    "lng": -79.4135058,
+    "FSA": "M2N",
+    "RATINGS": 7
+  },
+  {
+    "name": "St Gabriel",
+    "lat": 43.7692643,
+    "lng": -79.3910332,
+    "FSA": "M2N",
+    "RATINGS": 5
+  },
+  {
+    "name": "Annunciation",
+    "lat": 43.753071,
+    "lng": -79.3209857,
+    "FSA": "M3A",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "St Catherine",
+    "lat": 37.8521643,
+    "lng": -122.2421017,
+    "FSA": "M3A",
+    "RATINGS": 4.4
+  },
+  {
+    "name": "St Isaac Jogues",
+    "lat": 43.7624094,
+    "lng": -79.3219541,
+    "FSA": "M3A",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "St Bonaventure",
+    "lat": 40.7023915,
+    "lng": -74.2316104,
+    "FSA": "M3C",
+    "RATINGS": 8.7
+  },
+  {
+    "name": "Blessed John XXIII",
+    "lat": 43.7124142,
+    "lng": -79.329781,
+    "FSA": "M3C",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "St Robert",
+    "lat": 43.749732,
+    "lng": -79.4444429,
+    "FSA": "M3H",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St Jerome",
+    "lat": 43.7489632,
+    "lng": -79.4889325,
+    "FSA": "M3J",
+    "RATINGS": 6.7
+  },
+  {
+    "name": "St Wilfrid",
+    "lat": 43.760185,
+    "lng": -79.503482,
+    "FSA": "M3J",
+    "RATINGS": 5
+  },
+  {
+    "name": "St Norbert",
+    "lat": 43.7344984,
+    "lng": -79.4645022,
+    "FSA": "M3K",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "St Jane Frances",
+    "lat": 43.7420346,
+    "lng": -79.5131811,
+    "FSA": "M3L",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "St John the Evangelist",
+    "lat": 43.7188405,
+    "lng": -79.5103768,
+    "FSA": "M3L",
+    "RATINGS": 5.7
+  },
+  {
+    "name": "St Martha",
+    "lat": 43.7408625,
+    "lng": -79.5021114,
+    "FSA": "M3L",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "Blessed Margherita of Citta Castello",
+    "lat": 43.7437156,
+    "lng": -79.5079102,
+    "FSA": "M3L",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St. Andre",
+    "lat": 42.9463206,
+    "lng": -78.7682573,
+    "FSA": "M3L",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "St Conrad",
+    "lat": 43.7296106,
+    "lng": -79.4943701,
+    "FSA": "M3M",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "St Raphael",
+    "lat": 43.7287089,
+    "lng": -79.4887997,
+    "FSA": "M3M",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "St Augustine",
+    "lat": 43.7678204,
+    "lng": -79.5249529,
+    "FSA": "M3N",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Charles Garnier",
+    "lat": 43.7624409,
+    "lng": -79.5177492,
+    "FSA": "M3N",
+    "RATINGS": 2.8
+  },
+  {
+    "name": "St Francis de Sales",
+    "lat": 43.7541416,
+    "lng": -79.5191285,
+    "FSA": "M3N",
+    "RATINGS": 4.6
+  },
+  {
+    "name": "St Brigid",
+    "lat": 43.6868117,
+    "lng": -79.3168714,
+    "FSA": "M4C",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "Canadian Martyrs",
+    "lat": 43.6982088,
+    "lng": -79.3197093,
+    "FSA": "M4C",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "St Denis",
+    "lat": 43.6729814,
+    "lng": -79.2900378,
+    "FSA": "M4E",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "St John",
+    "lat": 43.8219217,
+    "lng": -79.1121956,
+    "FSA": "M4E",
+    "RATINGS": 7
+  },
+  {
+    "name": "St Anselm",
+    "lat": 43.7053956,
+    "lng": -79.3715122,
+    "FSA": "M4G",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "Holy Cross",
+    "lat": 43.6899901,
+    "lng": -79.3406358,
+    "FSA": "M4J",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "Holy Name",
+    "lat": 43.6773561,
+    "lng": -79.3472881,
+    "FSA": "M4K",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Joseph",
+    "lat": 43.6658462,
+    "lng": -79.3316811,
+    "FSA": "M4M",
+    "RATINGS": 3.6
+  },
+  {
+    "name": "St Monica",
+    "lat": 44.602794,
+    "lng": -75.678261,
+    "FSA": "M4P",
+    "RATINGS": 6.2
+  },
+  {
+    "name": "Our Lady of Perpetual Help",
+    "lat": 43.6877097,
+    "lng": -79.3836218,
+    "FSA": "M4T",
+    "RATINGS": 8.6
+  },
+  {
+    "name": "Our Lady of Lourdes",
+    "lat": 43.6661182,
+    "lng": -79.3746653,
+    "FSA": "M4X",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "St Paul",
+    "lat": 43.6554382,
+    "lng": -79.3617359,
+    "FSA": "M5A",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "St Michael's Choir",
+    "lat": 40.8460368,
+    "lng": -74.1309924,
+    "FSA": "M5B",
+    "RATINGS": 8.8
+  },
+  {
+    "name": "Blessed Sacrament",
+    "lat": 43.7274902,
+    "lng": -79.4040008,
+    "FSA": "M5M",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "St Margaret",
+    "lat": 43.7361735,
+    "lng": -79.4262851,
+    "FSA": "M5M",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Holy Rosary",
+    "lat": 43.6848122,
+    "lng": -79.4142534,
+    "FSA": "M5P",
+    "RATINGS": 7
+  },
+  {
+    "name": "St Charles",
+    "lat": 43.7132356,
+    "lng": -79.4513583,
+    "FSA": "M6B",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Sts Cosmas and Damian",
+    "lat": 43.7069322,
+    "lng": -79.4447439,
+    "FSA": "M6B",
+    "RATINGS": 7.7
+  },
+  {
+    "name": "Our Lady of the Assumption",
+    "lat": 43.7164381,
+    "lng": -79.4316646,
+    "FSA": "M6B",
+    "RATINGS": 3.8
+  },
+  {
+    "name": "Regina Mundi",
+    "lat": 43.7099027,
+    "lng": -79.4593508,
+    "FSA": "M6B",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Alphonsus",
+    "lat": 43.6827842,
+    "lng": -79.4320412,
+    "FSA": "M6C",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "St Clare",
+    "lat": 43.6795795,
+    "lng": -79.4414845,
+    "FSA": "M6E",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "D'Arcy McGee",
+    "lat": 43.6924241,
+    "lng": -79.4430505,
+    "FSA": "M6E",
+    "RATINGS": 4.1
+  },
+  {
+    "name": "St John Bosco",
+    "lat": 43.6887147,
+    "lng": -79.4505671,
+    "FSA": "M6E",
+    "RATINGS": 5.2
+  },
+  {
+    "name": "St Nicholas of Bari",
+    "lat": 46.620652,
+    "lng": -122.948157,
+    "FSA": "M6E",
+    "RATINGS": 4.3
+  },
+  {
+    "name": "Stella Maris",
+    "lat": 43.6794144,
+    "lng": -79.4449467,
+    "FSA": "M6E",
+    "RATINGS": 3.7
+  },
+  {
+    "name": "St Thomas Aquinas",
+    "lat": 43.6958721,
+    "lng": -79.4454682,
+    "FSA": "M6E",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St Francis of Assisi",
+    "lat": 40.7186287,
+    "lng": -73.9851379,
+    "FSA": "M6G",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "St Bruno Catholic",
+    "lat": 43.6732845,
+    "lng": -79.4272898,
+    "FSA": "M6G",
+    "RATINGS": 4.7
+  },
+  {
+    "name": "St Anthony",
+    "lat": 43.6635434,
+    "lng": -79.4350006,
+    "FSA": "M6H",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "St Helen",
+    "lat": 43.6520932,
+    "lng": -79.4361596,
+    "FSA": "M6H",
+    "RATINGS": 5.1
+  },
+  {
+    "name": "St Mary of the Angels",
+    "lat": 43.6721275,
+    "lng": -79.440296,
+    "FSA": "M6H",
+    "RATINGS": 8.1
+  },
+  {
+    "name": "St Sebastian",
+    "lat": 43.6627747,
+    "lng": -79.4399296,
+    "FSA": "M6H",
+    "RATINGS": 10
+  },
+  {
+    "name": "St Mary",
+    "lat": 43.6457483,
+    "lng": -79.404765,
+    "FSA": "M6J",
+    "RATINGS": 4.6
+  },
+  {
+    "name": "St Luke",
+    "lat": 43.6516833,
+    "lng": -79.4210688,
+    "FSA": "M6J",
+    "RATINGS": 5.8
+  },
+  {
+    "name": "Holy Family",
+    "lat": 43.6385741,
+    "lng": -79.4346151,
+    "FSA": "M6K",
+    "RATINGS": 3
+  },
+  {
+    "name": "St Fidelis",
+    "lat": -33.8375075,
+    "lng": 151.2239183,
+    "FSA": "M6L",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "St Francis Xavier",
+    "lat": 43.7109856,
+    "lng": -79.4831389,
+    "FSA": "M6L",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Bernard",
+    "lat": 43.7032711,
+    "lng": -79.5005929,
+    "FSA": "M6M",
+    "RATINGS": 4.9
+  },
+  {
+    "name": "Immaculate Conception",
+    "lat": 43.697655,
+    "lng": -79.4779507,
+    "FSA": "M6M",
+    "RATINGS": 3.8
+  },
+  {
+    "name": "St Matthew",
+    "lat": 43.6805931,
+    "lng": -79.4675774,
+    "FSA": "M6N",
+    "RATINGS": 5
+  },
+  {
+    "name": "Our Lady of Victory",
+    "lat": 43.6837245,
+    "lng": -79.4898102,
+    "FSA": "M6N",
+    "RATINGS": 3.4
+  },
+  {
+    "name": "Santa Maria",
+    "lat": 40.7234003,
+    "lng": -74.1881511,
+    "FSA": "M6N",
+    "RATINGS": 3.7
+  },
+  {
+    "name": "Pope Paul",
+    "lat": 43.6740215,
+    "lng": -79.4577963,
+    "FSA": "M6N",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "St Cecilia",
+    "lat": 43.6609841,
+    "lng": -79.474819,
+    "FSA": "M6P",
+    "RATINGS": 6.8
+  },
+  {
+    "name": "St Luigi",
+    "lat": 36.233996,
+    "lng": -86.7158009,
+    "FSA": "M6P",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "St Vincent de Paul",
+    "lat": 43.6468378,
+    "lng": -79.4479263,
+    "FSA": "M6R",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "James Culnan",
+    "lat": 41.6999591,
+    "lng": -72.7360387,
+    "FSA": "M6S",
+    "RATINGS": 5.5
+  },
+  {
+    "name": "St James",
+    "lat": 43.664699,
+    "lng": -79.4952239,
+    "FSA": "M6S",
+    "RATINGS": 4.2
+  },
+  {
+    "name": "St Pius X",
+    "lat": 40.7382717,
+    "lng": -74.0069107,
+    "FSA": "M6S",
+    "RATINGS": 7.8
+  },
+  {
+    "name": "St Josaphat",
+    "lat": 49.1318118,
+    "lng": -123.9232981,
+    "FSA": "M8V",
+    "RATINGS": 8.3
+  },
+  {
+    "name": "St Leo",
+    "lat": 40.6343668,
+    "lng": -74.0909372,
+    "FSA": "M8V",
+    "RATINGS": 6.4
+  },
+  {
+    "name": "The Holy Trinity",
+    "lat": 43.5977572,
+    "lng": -79.5171175,
+    "FSA": "M8V",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St Ambrose",
+    "lat": 43.6084402,
+    "lng": -79.5500704,
+    "FSA": "M8W",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "Our Lady of Sorrows",
+    "lat": 43.6484916,
+    "lng": -79.5190898,
+    "FSA": "M8X",
+    "RATINGS": 8.2
+  },
+  {
+    "name": "St Louis",
+    "lat": 43.3153122,
+    "lng": -73.6425142,
+    "FSA": "M8Y",
+    "RATINGS": 7.4
+  },
+  {
+    "name": "St Mark",
+    "lat": 40.3381873,
+    "lng": -74.2037396,
+    "FSA": "M8Y",
+    "RATINGS": 6.3
+  },
+  {
+    "name": "Holy Angels",
+    "lat": 43.6283387,
+    "lng": -79.5182219,
+    "FSA": "M8Z",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "St Elizabeth",
+    "lat": 43.6351132,
+    "lng": -79.5573188,
+    "FSA": "M9B",
+    "RATINGS": 5.8
+  },
+  {
+    "name": "St Gregory",
+    "lat": 43.6607669,
+    "lng": -79.5446257,
+    "FSA": "M9B",
+    "RATINGS": 7.5
+  },
+  {
+    "name": "Josyf Cardinal Slipyj",
+    "lat": 43.6595925,
+    "lng": -79.5656999,
+    "FSA": "M9B",
+    "RATINGS": 8.8
+  },
+  {
+    "name": "St Clement",
+    "lat": 43.6321865,
+    "lng": -79.5738209,
+    "FSA": "M9C",
+    "RATINGS": 8.8
+  },
+  {
+    "name": "Mother Cabrini",
+    "lat": 43.6636566,
+    "lng": -79.58606,
+    "FSA": "M9C",
+    "RATINGS": 7.2
+  },
+  {
+    "name": "Nativity of Our Lord",
+    "lat": 43.6535942,
+    "lng": -79.5758195,
+    "FSA": "M9C",
+    "RATINGS": 7.1
+  },
+  {
+    "name": "St Roch",
+    "lat": 43.7536373,
+    "lng": -79.5667534,
+    "FSA": "M9L",
+    "RATINGS": 2.5
+  },
+  {
+    "name": "Venerable John Merlini",
+    "lat": 43.7565187,
+    "lng": -79.579176,
+    "FSA": "M9L",
+    "RATINGS": 6.6
+  },
+  {
+    "name": "St Jude",
+    "lat": 32.531012,
+    "lng": -96.88125,
+    "FSA": "M9M",
+    "RATINGS": 4.8
+  },
+  {
+    "name": "St Simon",
+    "lat": 43.7188646,
+    "lng": -79.5329011,
+    "FSA": "M9M",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "All Saints",
+    "lat": 43.6852809,
+    "lng": -79.5274749,
+    "FSA": "M9P",
+    "RATINGS": 7.6
+  },
+  {
+    "name": "St Demetrius",
+    "lat": 43.68474,
+    "lng": -79.5216143,
+    "FSA": "M9P",
+    "RATINGS": 8.4
+  },
+  {
+    "name": "St Eugene",
+    "lat": 43.6925158,
+    "lng": -79.5372047,
+    "FSA": "M9P",
+    "RATINGS": 6.9
+  },
+  {
+    "name": "Father Serra",
+    "lat": 43.6858705,
+    "lng": -79.537073,
+    "FSA": "M9P",
+    "RATINGS": 8.3
+  },
+  {
+    "name": "St Marcellus",
+    "lat": 43.6795618,
+    "lng": -79.5543556,
+    "FSA": "M9R",
+    "RATINGS": 5.6
+  },
+  {
+    "name": "St Maurice",
+    "lat": 43.6979481,
+    "lng": -79.5539341,
+    "FSA": "M9R",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "Transfiguration of our Lord",
+    "lat": 43.691642,
+    "lng": -79.5627147,
+    "FSA": "M9R",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "St Andrew",
+    "lat": 43.7449145,
+    "lng": -79.5823043,
+    "FSA": "M9V",
+    "RATINGS": 4.8
+  },
+  {
+    "name": "St Angela",
+    "lat": 43.754586,
+    "lng": -79.5964242,
+    "FSA": "M9V",
+    "RATINGS": 4.1
+  },
+  {
+    "name": "St Dorothy",
+    "lat": 43.7316793,
+    "lng": -79.591691,
+    "FSA": "M9V",
+    "RATINGS": 2.5
+  },
+  {
+    "name": "St John Vianney",
+    "lat": 43.7380987,
+    "lng": -79.553785,
+    "FSA": "M9V",
+    "RATINGS": 6.1
+  },
+  {
+    "name": "Msgr John Corrigan",
+    "lat": 43.7513812,
+    "lng": -79.6044016,
+    "FSA": "M9V",
+    "RATINGS": 5.3
+  },
+  {
+    "name": "St Benedict",
+    "lat": 43.7232617,
+    "lng": -79.5732526,
+    "FSA": "M9W",
+    "RATINGS": 6.5
+  },
+  {
+    "name": "Holy Child",
+    "lat": 43.7287533,
+    "lng": -79.6191535,
+    "FSA": "M9W",
+    "RATINGS": 5.9
+  },
+  {
+    "name": "St Stephen",
+    "lat": 43.722093,
+    "lng": -79.5544514,
+    "FSA": "M9W",
+    "RATINGS": 3.3
+  }
+]

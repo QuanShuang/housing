@@ -1,15 +1,41 @@
 // Store our API endpoint
 var listingUrl = "resources/Transformed_JSON_to_GeoJSON.json";
-var platesUrl = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json";
+var schoolUrl = "resources/school/csvjson.json";
 
 // Perform a GET request to above House Listing and Fraxen url queries
 d3.json(listingUrl, function(data) {
   console.log(data);
-  d3.json(platesUrl, function(data2) {
+  d3.json(schoolUrl, function(data2) {
     // Send the data.features object to the createFeatures function
     createFeatures(data.features, data2.features);
   })
 });
+
+// d3.json(schoolurl, function(data2) {
+//   console.log(data2);
+//   // Create a new marker cluster group
+//   var markers = new L.markerClusterGroup();
+
+//   // Loop through data
+//   for (var i = 1; i < data2.length; i++) {
+
+//     // Set the data location property to a variable
+//     var lat = data2[i].lat;
+
+//     // Check for location property
+//     if (lat) {
+
+//       // Add a new marker to the cluster group and bind a pop-up
+//       markers.addLayer(L.marker([lat.coordinates[1], location.coordinates[0]])
+//         .bindPopup(response[i].descriptor));
+//     }
+
+//   }
+
+//   // Add our marker cluster layer to the map
+//   myMap.addLayer(markers);
+// });
+
 
 // Function to set color of the house based on their pricing
 function getColor(d) {
@@ -38,7 +64,7 @@ function getRadius(price) {
 }
 
 // Function to create and utilize features
-function createFeatures(listingData, plateData) {
+function createFeatures(listingData) {
 
   // Function to run once to render each feature in listing data
   // Give each house a popup describing the type and price
@@ -59,8 +85,10 @@ function createFeatures(listingData, plateData) {
 
   // Function to run once to render each feature in tectonic plates data
   // Give each tectonic plates a popup describing the name of the plate
-  function onEachPlateLayer(feature, layer) {
-    layer.bindPopup("<h4>" + feature.properties.Name + "</h4>");
+  function onEachSchoolLayer(feature, layer) {
+    layer.bindPopup("<h4>" + feature.properties.name + 
+    "<br> Rating: " + feature.properties.rating +"</h4>"
+    );
   }
 
   // Create a GeoJSON layer containing the features array on the ListingData & plateData object
@@ -70,17 +98,17 @@ function createFeatures(listingData, plateData) {
     pointToLayer: onEachHouseLayer
   });
 
-  var plates = L.geoJSON(plateData, {
-    onEachFeature: onEachPlateLayer,
-    color: "goldenrod"
+  var schools = L.geoJSON(schoolData, {
+    onEachFeature: onEachSchoolLayer,
+    color: "blue"
     });
 
-  // Send our housing & plates layer to the createMap function
-  createMap(housings, plates);
+  // Send our housing & schools layer to the createMap function
+  createMap(housings, schools);
 }
 
 // Function to create map
-function createMap(housings, plates) {
+function createMap(housings, schools) {
 
   // Define satellite, grayscale & outdoor layers
   var satellitemap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
@@ -104,7 +132,7 @@ function createMap(housings, plates) {
     accessToken: API_KEY
   });
 
-  var piratemap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+  var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> Quan SHUANG, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
     maxZoom: 20,
     id: "mapbox.dark",
@@ -121,14 +149,14 @@ function createMap(housings, plates) {
   // Create overlayMaps object to hold our overlay map layer
   var overlayMaps = {
     "Housing": housings,
-    "Fault Lines": plates
+    "Schools": schools
   };
 
   // Create our map, giving it the satellitemap, housings & plates layers to display on load
   var myMap = L.map("map", {
     center: [43.6529, -79.3849],
     zoom: 10,
-    layers: [darkmap, housings, plates]
+    layers: [darkmap, housings, schools]
   });
 
   // Create a layer control to enable toggle among our baseMaps and overlayMaps
