@@ -1,11 +1,12 @@
 // Store our API endpoint
 var listingUrl = "resources/Transformed_JSON_to_GeoJSON.json";
-var schoolUrl = "resources/school/csvjson.json";
+var schoolUrl = "resources/school/school.json";
 
 // Perform a GET request to above House Listing and Fraxen url queries
 d3.json(listingUrl, function(data) {
   console.log(data);
   d3.json(schoolUrl, function(data2) {
+    console.log(data2)
     // Send the data.features object to the createFeatures function
     createFeatures(data.features, data2.features);
   })
@@ -64,7 +65,7 @@ function getRadius(price) {
 }
 
 // Function to create and utilize features
-function createFeatures(listingData) {
+function createFeatures(listingData, schoolData) {
 
   // Function to run once to render each feature in listing data
   // Give each house a popup describing the type and price
