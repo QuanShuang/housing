@@ -13,11 +13,11 @@ d3.json(listingUrl, function(data) {
 
 // Function to set color of the house based on their pricing
 function getColor(d) {
-  return d > 10 ? "red" :
-         d > 2 ? "orange" :
-         d > 1 ? "yellow" :
-         d > 0.5  ? "green" :
-                  "greenyellow" ;
+  return d > 10 ? "purple" :
+         d > 2 ? "red" :
+         d > 1 ? "orange" :
+         d > 0.5 ? "yellow" :
+                  "green" ;
                 }
 
 
@@ -144,20 +144,46 @@ function createMap(housings, plates) {
   legend.onAdd = function (map) {
 
       var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 1, 2, 3, 4],
-        labels = [];
+        grades = [0,0.5,1,2,10],
+        labels = [0, "0.5", "1M", "2M", "10M"];
 
       // loop through pricing intervals and generate a label with a colored square for each interval
       for (var i = 0; i < grades.length; i++) {
           div.innerHTML +=
-              '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
-              grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+              '<i style="background:' + getColor(grades[i]+0.1) + '"></i> ' +
+              labels[i] + (labels[i + 1] ? '&ndash;' + labels[i + 1] + '<br>' : '+');
       }
 
       return div;
   };
 
   legend.addTo(myMap);
+
+
+// Adding second legend
+var legend2 = L.control({position: 'bottomleft'});
+
+legend2.onAdd = function (map) {
+
+    var div = L.DomUtil.create('div', 'info legend'),
+      grades = [0,1,2,3,4],
+      labels = ["D = Detached House", "S = Semi-Detached House", "T = Townhouse", "C = Condo", "Null = Unknown"];
+
+    // loop through pricing intervals and generate a label with a colored square for each interval
+    for (var i = 0; i < grades.length; i++) {
+        div.innerHTML +=
+            ('<i style="background:' + "gold" + '"></i> ' +
+            labels[i] + '<br>')}
+
+    return div;
+};
+
+legend2.addTo(myMap);
+
 }
+
+
+
+
 
 
